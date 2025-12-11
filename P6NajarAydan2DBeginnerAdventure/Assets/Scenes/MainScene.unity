@@ -217,6 +217,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< Updated upstream
 --- !u!114 &221507998
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -241,6 +242,9 @@ MonoBehaviour:
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
 --- !u!1 &501290277
+=======
+--- !u!1 &812659053
+>>>>>>> Stashed changes
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -21321,8 +21325,12 @@ SceneRoots:
   m_Roots:
   - {fileID: 963194228}
   - {fileID: 221507997}
+<<<<<<< Updated upstream
   - {fileID: 8229484687880773312}
   - {fileID: 744149151}
   - {fileID: 608216423768035418}
   - {fileID: 4290893810949260903}
   - {fileID: 5825261500051150599}
+=======
+  - {fileID: 2031146591}
+>>>>>>> Stashed changes
